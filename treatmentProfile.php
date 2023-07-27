@@ -1,0 +1,1 @@
+<?php include "views/treatmentProfile.views.php" ?>
